@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/harsh-panchal-)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/19387820/harsh-panchal)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshpanchal031)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC4xgzXxREgWmpWof4FkYgjA)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4xgzXxREgWmpWof4FkYgjA)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=Gmail&logoColor=white)](mailto:panchalharsh723@gmail.com)
 
 
