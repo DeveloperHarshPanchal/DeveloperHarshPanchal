@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-🔭 I’m currently working on full-stack web development projects to sharpen my skills.**
-👯 I’m looking to collaborate on open-source projects and creative web apps.**
-🌱 I'm always learning and exploring new technologies.**
+🔭 I’m currently working on full-stack web development projects to sharpen my skills.  
+👯 I’m looking to collaborate on open-source projects and creative web apps.  
+🌱 I'm always learning and exploring new technologies.  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/harsh.panchal.98499) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/harshpanchal_____?igsh=MXA3Z3I1ZnZnNDNrZQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-panchal-/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19387820/harsh-panchal?tab=profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/harshpanchal031) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC4xgzXxREgWmpWof4FkYgjA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panchalharsh723@gmail.com) 
