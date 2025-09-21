@@ -18,6 +18,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=DeveloperHarshPanchal&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperHarshPanchal&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ⚡ GitHub Stats
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperHarshPanchal&show_icons=true&theme=tokyonight)
+
+### 📊 Languages I Use
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperHarshPanchal&layout=compact&theme=tokyonight)
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DeveloperHarshPanchal&limit=5&theme=default&combine_all_yearly_contributions=true)
 
